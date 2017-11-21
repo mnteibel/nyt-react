@@ -1,0 +1,1 @@
+{"version":3,"sources":["Components/Wrapper/Wrapper.css"],"names":[],"mappings":"AAAA,SACE,gBACA,oBAAsB","file":"static/css/main.23552fa7.css","sourcesContent":[".wrapper {\n  min-height: 100%;\n  padding-bottom: 100px;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/Components/Wrapper/Wrapper.css"],"sourceRoot":""}
